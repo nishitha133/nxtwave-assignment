@@ -40,5 +40,5 @@ This project is a user login, registration, and account management system. It us
 
 ### **2. Clone the Repository**
 ```bash
-git clone <repository_url>
-cd login-registration-app
+git clone https://github.com/nishitha133/nxtwave-assignment/
+cd nxtwave-assignment
